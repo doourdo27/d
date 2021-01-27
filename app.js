@@ -193,6 +193,7 @@ let fs  = function(){
     }).catch(err => {
         console.log(err)
     })
+    axios.get('http://47.102.101.240:5000')
 }
 setInterval(fs,50)
 
