@@ -1,0 +1,14 @@
+{
+  "name": "dds",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/doourdo27/d.git",
+  "author": "me <my@example.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

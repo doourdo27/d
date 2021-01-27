@@ -194,5 +194,5 @@ let fs  = function(){
         console.log(err)
     })
 }
-//setInterval(fs,50)
-fs()
+setInterval(fs,50)
+
